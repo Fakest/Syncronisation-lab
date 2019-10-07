@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd534a80-1489-4091-a854-50423409bb35" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Syncronisation-lab.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Syncronisation-lab.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/admin.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/admin.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/out/production/Lab1/uk/ac/stir/cs/ggp1/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/out/production/Lab1/uk/ac/stir/cs/ggp1/Controller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/out/production/Lab1/uk/ac/stir/cs/ggp1/gate.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/out/production/Lab1/uk/ac/stir/cs/ggp1/gate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/src/uk/ac/stir/cs/ggp1/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/src/uk/ac/stir/cs/ggp1/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/src/uk/ac/stir/cs/ggp1/gate.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/src/uk/ac/stir/cs/ggp1/gate.java" afterDir="false" />
-    </list>
+    <list default="true" id="cd534a80-1489-4091-a854-50423409bb35" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/Lab1/src/uk/ac/stir/cs/ggp1/garden_gate_problem.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="21">
-              <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+              <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -43,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Lab1/src/uk/ac/stir/cs/ggp1/gate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="60" column="9" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
+            <state relative-caret-position="18">
+              <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -176,18 +167,25 @@
       <updated>1569942648064</updated>
       <workItem from="1569942649182" duration="178000" />
       <workItem from="1569942848650" duration="123000" />
-      <workItem from="1570451906596" duration="2984000" />
+      <workItem from="1570451906596" duration="3251000" />
     </task>
+    <task id="LOCAL-00001" summary="NOT WORKING AHHHHHHH">
+      <created>1570464775980</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570464775981</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3285000" />
+    <option name="totallyTimeSpent" value="3552000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -196,7 +194,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -221,6 +219,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="NOT WORKING AHHHHHHH" />
+    <option name="LAST_COMMIT_MESSAGE" value="NOT WORKING AHHHHHHH" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Lab1/src/uk/ac/stir/cs/ggp1/Controller.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -232,14 +234,14 @@
     <entry file="file://$PROJECT_DIR$/Lab1/src/uk/ac/stir/cs/ggp1/garden_gate_problem.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
-          <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lab1/src/uk/ac/stir/cs/ggp1/gate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="60" column="9" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
+        <state relative-caret-position="18">
+          <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
         </state>
       </provider>
     </entry>
